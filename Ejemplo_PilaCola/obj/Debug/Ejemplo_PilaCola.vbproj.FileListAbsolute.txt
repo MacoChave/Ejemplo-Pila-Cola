@@ -1,0 +1,9 @@
+c:\users\u\Visual Studio 2013\Ejemplo_PilaCola\Ejemplo_PilaCola\bin\Debug\Ejemplo_PilaCola.exe.config
+c:\users\u\Visual Studio 2013\Ejemplo_PilaCola\Ejemplo_PilaCola\bin\Debug\Ejemplo_PilaCola.exe
+c:\users\u\Visual Studio 2013\Ejemplo_PilaCola\Ejemplo_PilaCola\bin\Debug\Ejemplo_PilaCola.pdb
+c:\users\u\Visual Studio 2013\Ejemplo_PilaCola\Ejemplo_PilaCola\bin\Debug\Ejemplo_PilaCola.xml
+c:\users\u\Visual Studio 2013\Ejemplo_PilaCola\Ejemplo_PilaCola\obj\Debug\Ejemplo_PilaCola.Resources.resources
+c:\users\u\Visual Studio 2013\Ejemplo_PilaCola\Ejemplo_PilaCola\obj\Debug\Ejemplo_PilaCola.vbproj.GenerateResource.Cache
+c:\users\u\Visual Studio 2013\Ejemplo_PilaCola\Ejemplo_PilaCola\obj\Debug\Ejemplo_PilaCola.exe
+c:\users\u\Visual Studio 2013\Ejemplo_PilaCola\Ejemplo_PilaCola\obj\Debug\Ejemplo_PilaCola.xml
+c:\users\u\Visual Studio 2013\Ejemplo_PilaCola\Ejemplo_PilaCola\obj\Debug\Ejemplo_PilaCola.pdb
